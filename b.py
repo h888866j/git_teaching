@@ -2,8 +2,9 @@
 
 
 def add(a,b):
-   print(a,'+',b)
-   # first define
+   print(a,'+',b,'= ? ')
+   # first define 
+   # changes on maser
    return a+b
 
 
