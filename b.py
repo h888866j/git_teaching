@@ -7,6 +7,10 @@ def add(a,b):
    # changes on maser
    return a+b
 
+def devide(a,b):
+
+    if b!=0: return a/b
+    else: raise Exception
 
 
 
