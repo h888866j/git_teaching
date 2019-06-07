@@ -4,11 +4,12 @@
 def add(a,b):
    
    # first define
-   return a+b
-
+   # hello djkjlkj from dev branch
+    return a+b+1
+# also from dev branch
 def multiply(a,b):
     
-
+	
     # a multiply function 
 		
 		
