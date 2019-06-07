@@ -2,14 +2,16 @@
 
 
 def add(a,b):
-   print(a,'+',b,'= ? ')
-   # first define 
-   # changes on maser
-   return a+b
-
-
-
-
-
-
-
+   
+   # first define
+   # hello djkjlkj from dev branch
+    return a+b+1
+# also from dev branch
+def multiply(a,b):
+    
+	
+    # a multiply function 
+		
+		
+    return a*b
+	
